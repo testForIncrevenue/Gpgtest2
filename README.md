@@ -1,0 +1,2 @@
+# Gpgtest2
+gpg
